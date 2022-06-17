@@ -1,0 +1,41 @@
+.usertable {
+    border-spacing: 20px;
+    min-width: 700px;
+    border-spacing: 20px;
+    margin-left: 1%;
+    width: 90%;
+    flex: 4;
+  }
+   .tableCell {
+    max-width: 300px;
+    word-wrap: break-word;
+  }
+  .home {
+    display: flex;
+  }
+  .listContainer {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+.searchbar {
+  width: 40%;
+  margin-top: -5%;
+  height: 35px;
+  border-color: black;
+  margin-left: 5%;
+  display: flex;
+  position: fixed;
+}
+.editbtn {
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  color: blue;
+}
+.deletebtn {
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  color: red;
+}
